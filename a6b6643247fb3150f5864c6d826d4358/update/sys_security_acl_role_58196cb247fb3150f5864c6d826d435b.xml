@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-21 10:14:42</sys_created_on>
+        <sys_id>58196cb247fb3150f5864c6d826d435b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_310091_whish_lis_whish_item.x_310091_whish_lis.user</sys_name>
+        <sys_package display_value="Whish List" source="x_310091_whish_lis">a6b6643247fb3150f5864c6d826d4358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Whish List">a6b6643247fb3150f5864c6d826d4358</sys_scope>
+        <sys_security_acl display_value="x_310091_whish_lis_whish_item">cc196cb247fb3150f5864c6d826d4358</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_58196cb247fb3150f5864c6d826d435b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-21 10:14:42</sys_updated_on>
+        <sys_user_role display_value="x_310091_whish_lis.user" name="x_310091_whish_lis.user">ee176c3247fb3150f5864c6d826d43c7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

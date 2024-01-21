@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_310091_whish_lis_whish_item</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-21 10:14:41</sys_created_on>
+        <sys_id>881968be47bb3150f5864c6d826d439a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_310091_whish_lis_whish_item</sys_name>
+        <sys_package display_value="Whish List" source="x_310091_whish_lis">a6b6643247fb3150f5864c6d826d4358</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Whish List">a6b6643247fb3150f5864c6d826d4358</sys_scope>
+        <sys_update_name>sys_security_acl_881968be47bb3150f5864c6d826d439a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-21 10:14:41</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
